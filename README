@@ -1,0 +1,3 @@
+The Boxes program contains methods for creating boxes, calculating their volumes and comparing their volumes to each other.
+
+The main method creates two boxes, compares their volumes and prints the result.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92262240-A9CC-4FA7-8C93-A9F9AC230E5E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Boxes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFA97595540C9B7EEAEC6B2367613A4693F09A76</key>
+		<string>github.com:jeremypetter/Boxes.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Boxes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFA97595540C9B7EEAEC6B2367613A4693F09A76</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jeremypetter/Boxes.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFA97595540C9B7EEAEC6B2367613A4693F09A76</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFA97595540C9B7EEAEC6B2367613A4693F09A76</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Boxes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
